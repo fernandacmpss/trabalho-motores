@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class Player : MonoBehaviour
 {
     public int velocidade = 10;
-    public int forcaPulo = 7;
+    public int forcaPulo = 10;
     public bool noChao;
     
     
